@@ -12,16 +12,32 @@ This project was built for learning purposes and serves as a reference for basic
 - Simple and user-friendly interface
 
 ## Tech Stack
-- Programming Language: [Your Language Here]
-- GUI Framework: [Your GUI Library Here]
+- Programming Language: Python
+- GUI Framework: Tkinter
+
+## Screenshot
+![Calculator GUI](screenshot.png)
 
 ## Getting Started
 
 ### Prerequisites
-- [Required language/runtime installed]
-- [Any required libraries or dependencies]
+- Python 3.12.7 or higher
+- Tkinter and Math libraries
 
 ### Run the Application
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/basic-calculator-gui.git
+
+## Purpose
+This project was created to practice GUI development and basic programming concepts.  
+It serves as a reference for future learning.
+
+## Future Improvements
+- Improve UI design
+- Add keyboard input support
+- Add advanced calculator features
+
+## License
+This project is open for learning and personal use.
+
