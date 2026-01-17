@@ -35,11 +35,6 @@ This project was built for learning purposes and serves as a reference for basic
 This project was created to practice GUI development and basic programming concepts.  
 It serves as a reference for future learning.
 
-## Future Improvements
-- Improve UI design
-- Add keyboard input support
-- Add advanced calculator features
-
 ## License
 This project is open for learning and personal use.
 
