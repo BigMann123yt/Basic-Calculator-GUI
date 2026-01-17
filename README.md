@@ -10,6 +10,7 @@ This project was built for learning purposes and serves as a reference for basic
 - Division
 - Clear / Reset functionality
 - Simple and user-friendly interface
+- Round icons with drop shadow and depth effect
 
 ## Tech Stack
 - Programming Language: Python
