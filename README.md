@@ -16,7 +16,9 @@ This project was built for learning purposes and serves as a reference for basic
 - GUI Framework: Tkinter
 
 ## Screenshot
-![Calculator GUI](screenshot.png)
+
+![Calculator GUI](screenshot1.png)
+
 
 ## Getting Started
 
